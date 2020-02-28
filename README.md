@@ -3,6 +3,9 @@ Javascript ile iyelik eki eklemek için basit bir sınıf
 
 > Youtube kanalımda php kodlarını javascript'e dönüştürmek için hazırladığım eğitim için https://github.com/cengizhancaliskan/iyelik-eki bu sınıftan yararlanılmıştır.
 
+Nasıl yazıldığıyla ilgili hazırladığım derse ulaşmak isterseniz;
+https://www.youtube.com/watch?v=hKRuxoGvGOA
+
 # Kullanımı
 
 ```js
